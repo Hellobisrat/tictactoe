@@ -1,8 +1,8 @@
-
+import TicTacToe from "./component";
 function App() {
   return (
     <div className="App">
-     
+     <TicTacToe />
     </div>
   );
 }
